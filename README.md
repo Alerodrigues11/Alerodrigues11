@@ -7,6 +7,8 @@ Estou no último ano de Administração, cursando na Universidade Paulista - UNI
   * Javascript
   * HTML
   * CSS
+  * PHP
+  * SQL
 <div align="center">
   <a href="https://github.com/alerodrigues11">
   <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api?username=alerodrigues11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
