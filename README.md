@@ -4,11 +4,9 @@ Trabalho há 2 anos com comércio exterior e estou fazendo uma transição para 
 Estou no último ano de Administração, cursando na Universidade Paulista - UNIP.
   
   📗 Atualmente estou aprendendo:
-  * Javascript
-  * HTML
-  * CSS
-  * PHP
-  * SQL
+  * Javascript / PHP / SQL
+  * HTML / CSS
+ 
 <div align="center">
   <a href="https://github.com/alerodrigues11">
   <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api?username=alerodrigues11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
