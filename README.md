@@ -1,11 +1,9 @@
 ## Seja bem-vindo!
 
-Trabalho há 2 anos com comércio exterior e estou fazendo uma transição para a área da programação. 
-Estou no último ano de Administração, cursando na Universidade Paulista - UNIP.
+Sou formado em Administração de Empresas e trabalho com comércio exterior há 3 anos. Estou em busca de uma transição de carreira para a área de tecnologia.
   
   📗 Atualmente estou aprendendo:
   * Javascript / PHP / SQL
-  * HTML / CSS
  
 <div align="center">
   <a href="https://github.com/alerodrigues11">
