@@ -1,9 +1,6 @@
 ## Seja bem-vindo!
 
 Sou formado em Administração de Empresas e trabalho com comércio exterior há 3 anos. Estou em busca de uma transição de carreira para a área de tecnologia.
-  
-  📗 Atualmente estou aprendendo:
-  * Javascript / PHP / SQL
  
 <div align="center">
   <a href="https://github.com/alerodrigues11">
