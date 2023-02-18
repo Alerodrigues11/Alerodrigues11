@@ -1,6 +1,7 @@
 ## Seja bem-vindo!
 
-Sou formado em Administração de Empresas e trabalho com comércio exterior há 3 anos. Estou em busca de uma transição de carreira para a área de tecnologia.
+Sou formado em Administração de Empresas e trabalho com comércio exterior há 3 anos. 
+Busco aprimorar constantemente minhas habilidades para me tornar um desenvolvedor altamente capacitado, capaz de entregar soluções úteis e inovadoras.
  
 <div align="center">
   <a href="https://github.com/alerodrigues11">
