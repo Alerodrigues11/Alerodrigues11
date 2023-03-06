@@ -1,4 +1,4 @@
-## Seja bem-vindo!
+## 👋 Seja bem-vindo!
 
 Sou formado em Administração de Empresas e trabalho com comércio exterior há 3 anos. 
 Busco aprimorar constantemente minhas habilidades para me tornar um desenvolvedor altamente capacitado, capaz de entregar soluções úteis e inovadoras.
