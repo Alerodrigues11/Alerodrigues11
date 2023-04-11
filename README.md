@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bem-vindo ao meu perfil do GitHub! Sou um entusiasta por tecnologia que encontrou na programação uma maneira de fazer as ideias tomarem forma.<br><br>Minha paixão por tecnologia e programação me levou a buscar novas oportunidades de aprendizado e crescimento profissional. Estou dedicando meu tempo e esforço para aprimorar minhas habilidades nas seguintes linguagens de programação: JavaScript e C#.
+Bem-vindo ao meu perfil do GitHub! Sou um entusiasta por tecnologia e por análise de dados.<br><br>Minha paixão por tecnologia me levou a buscar novas oportunidades de aprendizado e crescimento profissional. Estou dedicando meu tempo e esforço para aprimorar minhas habilidades nas seguintes ferramentas: SQL Server, POWER BI, Tableau
 
 
 ## 🌐 Socials:
